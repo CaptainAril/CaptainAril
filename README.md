@@ -14,28 +14,6 @@ I see **programming** as a powerful tool to turn ideas into reality. Whether it'
 
 ---
 
-#### 🛠️ **What Am I Working On?**
-- Building a **multi-tenancy Django app** to enhance system scalability.  
-- Developing a **Django + Flutter Uber clone** as a personal project.  
-- Learning **Flutter (Dart)** to add to my stack of problem-solving tools.  
-- Working on backend APIs for a fintech app, focusing on smooth user authentication and secure transactions.  
-
----
-
-#### 🧰 **My Tech Toolbox**
-- **Languages & Frameworks:** Python, JavaScript, Django, Flask, Flutter (Dart)  
-- **Cloud & Automation:** Docker, Celery, PostgreSQL  
-- **Other Skills:** Web scraping, automation scripts, embedded systems  
-
----
-
-#### 🌍 **Where I Shine**
-- Problem-solving with a blend of **critical thinking** and technical expertise.  
-- Designing systems with attention to detail, whether it's a **dual-mode fire-extinguishing robot** or automated tools for **business process optimization**.  
-- Striving for innovation to make a lasting impact in **Africa and beyond**.  
-
----
-
 #### 🌟 **My Guiding Philosophy**
 *"Technology is not just about code; it's about transforming ideas into meaningful solutions."*  
 
