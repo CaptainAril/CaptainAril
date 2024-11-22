@@ -1,6 +1,6 @@
 ### Welcome to Emmanuel Obe's GitHub! 👨‍💻✨  
 
-Hi there! 👋 I’m **Emmanuel Obe**, a passionate **Technology Engineer** and lifelong tech enthusiast. My journey into the world of technology has been fueled by a relentless curiosity about how things are made, how they work, and how I can bring ideas to life. 🚀  
+Hi there! 👋 I’m **Emmanuel Obe**, a passionate and lifelong **tech enthusiast**. My journey into the world of technology has been fueled by a relentless curiosity about how things are made, how they work, and how I can bring ideas to life. 🚀  
 
 ---
 
