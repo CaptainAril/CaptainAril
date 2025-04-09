@@ -15,7 +15,7 @@ I see **programming** as a powerful tool to turn ideas into reality. Whether it'
 ---
 
 #### 🌟 **My Guiding Philosophy**
-*"Technology is not just about code; it's about transforming ideas into meaningful solutions."*  
+*"Technology is the next frontier for human evolution."*  
 
 ---
 
