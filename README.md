@@ -10,7 +10,7 @@ Hi there! 👋 I’m **Emmanuel Obe**, a passionate and lifelong **tech enthusia
 - Intrigued by **aviation**, **electronics**, and cutting-edge technologies like **AI**, **embedded systems**, and **robotics**.  
 
 #### 💡 **What Drives Me?**
-I see **programming** as a powerful tool to turn ideas into reality. Whether it's building robust APIs, crafting beautiful mobile apps, or innovating in hardware solutions, I'm driven to **bridge the gap between digital and physical systems**. My ultimate dream? To **revolutionize aviation technology** as an **Avionics System Engineer**. 🛫  
+I see **programming** as a powerful tool to turn ideas into reality. Be it building robust APIs, crafting beautiful mobile apps, or innovating in hardware solutions, I'm driven to **bridge the gap between digital and physical systems**. My ultimate dream? To **revolutionize aviation technology** as an **Avionics System Engineer**. 🛫  
 
 ---
 
