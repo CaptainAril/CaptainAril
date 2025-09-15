@@ -28,3 +28,5 @@ Feel free to explore my repositories, drop me a star 🌟, or connect for collab
 - **LinkedIn:** [https://www.linkedin.com/in/obe-emmanuel-e7000/]  
 
 Let’s connect, innovate, and grow. Cheers to building the future! ✨  
+
+[![An image of @captainaril's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/captainaril)](https://holopin.io/@captainaril)
