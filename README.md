@@ -33,6 +33,13 @@ Currently a Backend Engineer working on large-scale platforms spanning **finance
 
 ---
 
+## 📄 CV
+
+- [View CV (Google Drive)](https://drive.google.com/file/d/1lFeDFNuSKiQ5lp1D3kSAPr_JwWQGYe6N/view?usp=drive_link)
+
+---
+
+
 ## 📫 Connect
 
 - Email: obeemmanuelifeoluwa@gmail.com  
