@@ -20,7 +20,7 @@ Currently a Backend Engineer working on large-scale platforms spanning **finance
 **Backend:** Python, Django, DRF, Flask, TypeScript, Node.js  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
 **Architecture:** Multi-Tenant SaaS, REST APIs, RBAC, OAuth 2.0, JWT  
-**Infra & DevOps:** Docker, CI/CD, Nginx, AWS  
+**Infra & DevOps:** Docker, CI/CD, Nginx, AWS, Terraform
 
 ---
 
